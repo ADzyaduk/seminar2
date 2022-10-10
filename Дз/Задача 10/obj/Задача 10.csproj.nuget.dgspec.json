@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rDr-K\\OneDrive\\Рабочий стол\\семинар 1\\seminar2\\Дз\\Задача 10\\Задача 10.csproj": {}
+    "C:\\Users\\rDr-K\\OneDrive\\Рабочий стол\\семинар 1\\3\\seminar2\\Дз\\Задача 10\\Задача 10.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rDr-K\\OneDrive\\Рабочий стол\\семинар 1\\seminar2\\Дз\\Задача 10\\Задача 10.csproj": {
+    "C:\\Users\\rDr-K\\OneDrive\\Рабочий стол\\семинар 1\\3\\seminar2\\Дз\\Задача 10\\Задача 10.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rDr-K\\OneDrive\\Рабочий стол\\семинар 1\\seminar2\\Дз\\Задача 10\\Задача 10.csproj",
+        "projectUniqueName": "C:\\Users\\rDr-K\\OneDrive\\Рабочий стол\\семинар 1\\3\\seminar2\\Дз\\Задача 10\\Задача 10.csproj",
         "projectName": "Задача 10",
-        "projectPath": "C:\\Users\\rDr-K\\OneDrive\\Рабочий стол\\семинар 1\\seminar2\\Дз\\Задача 10\\Задача 10.csproj",
+        "projectPath": "C:\\Users\\rDr-K\\OneDrive\\Рабочий стол\\семинар 1\\3\\seminar2\\Дз\\Задача 10\\Задача 10.csproj",
         "packagesPath": "C:\\Users\\rDr-K\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rDr-K\\OneDrive\\Рабочий стол\\семинар 1\\seminar2\\Дз\\Задача 10\\obj\\",
+        "outputPath": "C:\\Users\\rDr-K\\OneDrive\\Рабочий стол\\семинар 1\\3\\seminar2\\Дз\\Задача 10\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rDr-K\\AppData\\Roaming\\NuGet\\NuGet.Config"
